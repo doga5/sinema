@@ -1,0 +1,11 @@
+C:\Users\gokce\source\repos\sinemaProjesi\sinemaProjesi\bin\Debug\sinemaProjesi.exe.config
+C:\Users\gokce\source\repos\sinemaProjesi\sinemaProjesi\bin\Debug\sinemaProjesi.exe
+C:\Users\gokce\source\repos\sinemaProjesi\sinemaProjesi\bin\Debug\sinemaProjesi.pdb
+C:\Users\gokce\source\repos\sinemaProjesi\sinemaProjesi\obj\Debug\sinemaProjesi.csprojAssemblyReference.cache
+C:\Users\gokce\source\repos\sinemaProjesi\sinemaProjesi\obj\Debug\sinemaProjesi.Form1.resources
+C:\Users\gokce\source\repos\sinemaProjesi\sinemaProjesi\obj\Debug\sinemaProjesi.Properties.Resources.resources
+C:\Users\gokce\source\repos\sinemaProjesi\sinemaProjesi\obj\Debug\sinemaProjesi.SatisEkrani.resources
+C:\Users\gokce\source\repos\sinemaProjesi\sinemaProjesi\obj\Debug\sinemaProjesi.csproj.GenerateResource.cache
+C:\Users\gokce\source\repos\sinemaProjesi\sinemaProjesi\obj\Debug\sinemaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\gokce\source\repos\sinemaProjesi\sinemaProjesi\obj\Debug\sinemaProjesi.exe
+C:\Users\gokce\source\repos\sinemaProjesi\sinemaProjesi\obj\Debug\sinemaProjesi.pdb
